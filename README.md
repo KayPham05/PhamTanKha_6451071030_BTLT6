@@ -1,4 +1,3 @@
-
 # b1
 ![img](b1/anh%20nop%20bai/img.png)
 ![img_1](b1/anh%20nop%20bai/img_1.png)
